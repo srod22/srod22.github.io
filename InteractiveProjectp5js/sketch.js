@@ -8,6 +8,7 @@ const arr = [{"name": name, "date": date}];
 console.log(name);
 console.log(date);
 console.log(arr);
+prompt("Choose a color first! Just press ENTER to begin");
 
 function setup() {
   createCanvas(630, 500);
